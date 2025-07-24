@@ -16,3 +16,10 @@ And the same person who gave me the drive i am extracting it to the same pendriv
 My linux is not running in my vm i dont know why i tired alot in class it didnt worked and the class got over so i decided to go home and do it which  i did the issue was my vdm file was not working so i reinstalled everything and it worked.
 Well thats my first day of **#100 days of CYBERSECURITY** WELL  it did started rought but whaats the fun if everything goes according to the plan well i hope for new challenges and understand the world of cybersecurity better
 As i say lets keep is SAFE!!.
+[DAY2] The day 2 of **#100 days  of cybersecurity started with sir explaning about the various use of linux and how kali linux can be used to work with diffrent commands.
+We learned pwd ls chmode rmdri rkfri etc functions as a beiging .
+In the next cycle we learned about the how we can bypass windows security and hack our own systems .
+We learned about villain frame and how it is used to bypass windows .
+We were tasked to hack a wi_fi or a seerver for the next class as an homeork.
+And also downloading VS code in the system is another part 
+Well i hope to learn better and new things in the up coming sessions and manymore
